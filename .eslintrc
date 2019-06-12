@@ -1,0 +1,10 @@
+{
+  "extends": ["standard", "standard-react"],
+  "globals": {
+    "graphql": true,
+    "__PATH_PREFIX__": true
+  },
+  "rules": {
+    "react/prop-types": "ignore"
+  }
+}
